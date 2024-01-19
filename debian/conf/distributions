@@ -1,0 +1,9 @@
+Origin: jallais3u ratovobo1u
+Label: mbash jallais ratovobodo
+Suite: stable
+Codename: bionic
+Version: 0.1
+Architectures: amd64
+Components: main
+Description: Construction d'un terminal miniature mbash
+SignWith: B43A2E1DEE3F897116D57A041BA9DEAE1186E281

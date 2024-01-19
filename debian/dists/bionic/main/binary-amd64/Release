@@ -1,0 +1,7 @@
+Archive: stable
+Version: 0.1
+Component: main
+Origin: jallais3u ratovobo1u
+Label: mbash jallais ratovobodo
+Architecture: amd64
+Description: Construction d'un terminal miniature mbash

@@ -1,0 +1,21 @@
+Origin: jallais3u ratovobo1u
+Label: mbash jallais ratovobodo
+Suite: stable
+Codename: bionic
+Version: 0.1
+Date: Fri, 19 Jan 2024 09:35:51 UTC
+Architectures: amd64
+Components: main
+Description: Construction d'un terminal miniature mbash
+MD5Sum:
+ 62c2873bcb4db74296a8f99bebe54d24 384 main/binary-amd64/Packages
+ 20ba4e57940c04c8f332a2703ef2d5fc 300 main/binary-amd64/Packages.gz
+ b072cde6c5ac4cae3cf197734eb2219d 182 main/binary-amd64/Release
+SHA1:
+ 9e9ea8d0ab1a000d3aad13c0201cfc9f3490d98c 384 main/binary-amd64/Packages
+ 03c14cd51a477a27da61f58d367018b5991a2aa2 300 main/binary-amd64/Packages.gz
+ fbc96dc9055609d3e1d889d3ee995742a029c1db 182 main/binary-amd64/Release
+SHA256:
+ 4a184fc82767e19892c0c7952c74a68bb633bed6a20c20c200b71144d4444f05 384 main/binary-amd64/Packages
+ fbe37fbc3de8c78ea4b1b1e5388dde76daab3479fbc7b4effe1c1770b53808c4 300 main/binary-amd64/Packages.gz
+ d4731c3f42e9b67cfb9693b8443d6a84c5e89bacff116b810bed75a20ba33a9d 182 main/binary-amd64/Release

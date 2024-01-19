@@ -1,0 +1,13 @@
+Package: mbash
+Version: 0.2
+Architecture: amd64
+Maintainer: Bastien Jallais Ratovobodo Nicka
+Priority: standard
+Section: main
+Filename: pool/main/m/mbash/mbash_0.2_amd64.deb
+Size: 5648
+SHA256: f91397bc04a7efe924953fb7deda996b6da410d181415f65eaf9baf7b8acee80
+SHA1: fe5dff8575ac45cbac0ac4d5512e519fe2a41ade
+MD5sum: c900eb627e801dd3c1d063abd3894a53
+Description: terminal bash miniature
+
